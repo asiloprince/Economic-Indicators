@@ -6,7 +6,7 @@ promote sustained, inclusive and sustainable economic growth, full and productiv
 
 # Description
 
-Economic indicators are statistical measures used to assess the performance and health of an economy. They provide insights into different aspects of economic activity and can help in understanding trends, patterns, and overall economic conditions. The indicators you mentioned are commonly used in economic analysis to evaluate the labor market (unemployment rate), economic growth (GDP growth rate), income levels (GDP per capita), and price stability (inflation).
+Economic indicators are statistical measures used to assess the performance and health of an economy. They provide insights into different aspects of economic activity and can help in understanding trends, patterns, and overall economic conditions. Can the available data, such as the unemployment rate, GDP growth, GDP per capita, population, and inflation, be utilized to predict future unemployment?
 
 This submission focuses on the analysis of unemployment rates and other dependent variable in the member countries of the Association of Southeast Asian Nations (ASEAN) in relation to Sustainable Development Goal 8. SDG 8 aims to promote sustainable economic growth, productive employment, and decent work for all.
 

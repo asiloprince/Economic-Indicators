@@ -2,7 +2,7 @@
 
 ![Alt Text](Assets/Team.jpg)
 
-# Economic Indicators Unemployment Analysis
+# Economic Indicators Analysis
 
 ![Alt Text](https://i0.wp.com/blog.brightcities.city/wp-content/uploads/2020/05/ODS8.jpg?resize=900%2C551&ssl=1)
 
